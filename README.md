@@ -27,8 +27,8 @@ Aplikasi web **Inventaris Laptop** untuk UTS mata kuliah **Pemrograman Berorient
 Prasyarat: PHP 8.3+ dan Composer 2.
 
 ```bash
-git clone <url-repository>
-cd <folder-repository>
+git clone https://github.com/Muhayara/Simple-Inventaris-Laptop.git
+cd Simple-Inventaris-Laptop
 composer install
 cp .env.example .env          # SESSION_DRIVER=file sudah diatur di .env.example
 php artisan key:generate
