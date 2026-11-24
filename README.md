@@ -36,3 +36,5 @@ php artisan serve
 ```
 
 Buka `http://127.0.0.1:8000/laptop`.
+
+Tugas pertemuan 7 yang belum sempat upload: [laravel-katalog-laptop-mvc](https://github.com/Muhayara/laravel-katalog-laptop-mvc)
